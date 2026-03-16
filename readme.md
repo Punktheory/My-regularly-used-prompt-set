@@ -1,4 +1,4 @@
-**利用AI的学习prompt:**
+## 利用AI的学习prompt:
 
 简单的lecture notes：
 
