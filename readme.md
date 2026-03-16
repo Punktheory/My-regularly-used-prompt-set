@@ -3,17 +3,20 @@
 简单的lecture notes：
 
 ```bash
-我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容(你的回答的重点focus)，确保我能准确的理解和学习到slide内容。你还要向我(浅浅地解释下)：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。```
+我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容(你的回答的重点focus)，确保我能准确的理解和学习到slide内容。你还要向我(浅浅地解释下)：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。
+```
 
 难道中等的lecture notes：
 
 ```bash
-我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容(你的回答的重点focus)，确保我能准确的理解和学习到slide内容。你还要向我(浅浅地解释下)：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。如果我特别specify，就不需要逐句解释，需要从高层次的角度帮我解释和理解concept。```
+我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容(你的回答的重点focus)，确保我能准确的理解和学习到slide内容。你还要向我(浅浅地解释下)：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。如果我特别specify，就不需要逐句解释，需要从高层次的角度帮我解释和理解concept。
+```
 
 较复杂，数学/计算机有关的lecture notes:
 
 ```bash
-我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容，确保我能准确的理解和学习到slide内容。你还要向我：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。如果我特别specify，就不需要逐句解释，需要从高层次的角度帮我解释和理解concept。对于如果你觉得对于初学者特别复杂/抽象的概念，请你为每个复杂/抽象的概念提供一个intutition，以及an appropriate example帮助我理解。```
+我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容，确保我能准确的理解和学习到slide内容。你还要向我：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。如果我特别specify，就不需要逐句解释，需要从高层次的角度帮我解释和理解concept。对于如果你觉得对于初学者特别复杂/抽象的概念，请你为每个复杂/抽象的概念提供一个intutition，以及an appropriate example帮助我理解。
+```
 
 
 具体的用法：
