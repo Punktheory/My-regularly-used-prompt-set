@@ -1,4 +1,4 @@
-## Student-orientated AI-prompt_template
+## 满分AI prompt调用
 
 前言：日常生活裏面，我們經常會使用到一些AI工具辅助我们学习或者做project。为了最大化利用LLM AI tool, 一个良好，格式化，有明确目标的prompt是必不可失的。由于笔者喜欢思考的使用方式，同时受到心理学知识点影响，以下是一些我**整理出来我日常比较多使用，对于学生而言十分有用的prompt template**。下面的template主要针对在国际化大学学习的学生（lecture notes以英文为标准但是母语为中文）。如有需要，也可以进行客制化更改，调成更符合个人习惯或者地区习惯的prompt。
 
@@ -26,7 +26,7 @@ complex, cs/math related lecture notes:
 
 >使用方法：prompt +整个ppt slide丢进去，然后一页一页slide截图/ 一张一张slide的文字[....copy 一张slide里面的所有文字...] (更推荐，更快) 丢进去给它解释
 
-Note:一个窗口的AI对话最多支持~40 page的教学，超过这个page数量建议开新窗口
+Note:一个窗口的AI对话最多支持~40 page的教学，超过这个page数量建议开新窗口  
 Note:推荐使用claude系列模型
 
 ***
