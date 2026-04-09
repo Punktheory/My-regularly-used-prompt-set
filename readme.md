@@ -29,8 +29,8 @@ complex, cs/math related lecture notes:
 Note:一个窗口的AI对话最多支持~40 page的教学，超过这个page数量建议开新窗口  
 Note:推荐使用claude系列模型
 
-  
-  
+  <br>
+  <br>
 ***
 
 ### 利用AI做功课的prompt:
