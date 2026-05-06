@@ -1,4 +1,4 @@
-## AI prompt enginerring调用指南
+## AI prompt engineering调用指南
 
 前言：日常生活裏面，我們經常會使用到一些AI工具辅助我们学习或者做project。为了最大化利用LLM AI tool, 一个良好，格式化，有明确目标的prompt是必不可失的。由于笔者经常使用AI工具帮忙，并且有心理学知识背景，于是我*总结出来一套我日常比较多使用，对于学生而言十分有用的prompt template*，可以提高学习者的学习效率。下面的template主要针对在国际化大学学习的学生（lecture notes以英文为标准但是母语为中文）。如有需要，也可以进行客制化更改，调成更符合个人习惯或者地区习惯的prompt。  
   <br>
