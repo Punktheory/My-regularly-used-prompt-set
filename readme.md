@@ -1,4 +1,4 @@
-## 满分AI prompt调用
+## AI prompt enginerring调用指南
 
 前言：日常生活裏面，我們經常會使用到一些AI工具辅助我们学习或者做project。为了最大化利用LLM AI tool, 一个良好，格式化，有明确目标的prompt是必不可失的。由于笔者经常使用AI工具帮忙，并且有心理学知识背景，于是我*总结出来一套我日常比较多使用，对于学生而言十分有用的prompt template*，可以提高学习者的学习效率。下面的template主要针对在国际化大学学习的学生（lecture notes以英文为标准但是母语为中文）。如有需要，也可以进行客制化更改，调成更符合个人习惯或者地区习惯的prompt。  
   <br>
@@ -9,19 +9,19 @@
 Easy lecture notes：
 
 ```bash
-我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容(你的回答的重点focus)，确保我能准确的理解和学习到slide内容。你还要向我(浅浅地解释下)：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。
+我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容(重点focus)，确保我能准确的理解和学习到slide内容。你还要向我(浅浅地)：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。
 ```
 
 Meddile-level difficulty lecture notes：
 
 ```bash
-我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容(你的回答的重点focus)，确保我能准确的理解和学习到slide内容。你还要向我(浅浅地解释下)：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。如果我特别specify，就不需要逐句解释，需要从高层次的角度帮我解释和理解concept。
+我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容(重点focus)，确保我能准确的理解和学习到slide内容。你还要向我(浅浅地解释下)：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。如果我特别specify或者提问题，你就不需要逐句解释，而是需要从概念上或高层次的角度帮我解释和理解concept。
 ```
 
 complex, cs/math related lecture notes:
 
 ```bash
-我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句讲解slide里面的内容，确保我能准确的理解和学习到slide内容。你还要向我：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。如果我特别specify，就不需要逐句解释，需要从高层次的角度帮我解释和理解concept。对于如果你觉得对于初学者特别复杂/抽象的概念，请你为每个复杂/抽象的概念提供一个intutition，以及an appropriate example帮助我理解。
+我是香港科技大学的学生，我正在上一门课。我需要你先阅读这份讲义。接着我会一张slide一张slide把讲义传给你，我需要你以初学者的角度向我逐句详细讲解slide里面的内容和概念，确保我能准确的理解和学习到slide内容。你还要向我简略的介绍：解释slide的上下文逻辑关系，evalaution of concept，和provide exmaple for concept for understanding，以及解释为什么这个concept/example会出现在这里(老师为什么把这个content/exmaple/concept/表格放在这个地方教我们？）。如果我特别specify或者提问题，就不需要逐句解释，需要从高层次的角度帮我解释和理解concept。此外，对于每一页我传进去的讲义里面，如果你觉得有对于初学者特别复杂的概念/特别抽象的概念/数学概念，请你详细的，初学者友好的一步一步讲解这个特别复杂的概念/特别抽象的概念/数学概念，和为每个复杂/抽象的概念简略的提供一个非常简单但是不生硬的intutition，以及一些相关的examples帮助我理解(可以是课内也可以是课外)。
 ```
   
 具体的用法：
@@ -63,7 +63,7 @@ AI的使用，自然离不开 ~~帮忙做功课~~ 辅助完成作业。然而，
 
 ***
 
-### 利用AI做提供project参考思路/做project的prompt:
+### 利用AI做提供psy-related project参考思路/做project的prompt:
 
 首先，要明确一点，想利用AI 做project，我们要对project有整体的认识，和对自己的想做的项目的大体方向，细节方向和自己大致感兴趣的方向要有细致的认知。我们的目标是可以利用ai辅助搜集资料，提供别样的视角，提供知识补充和知识拓展，以及批判性批判。
 
